@@ -24,7 +24,7 @@ const AdminLogin = () => {
              <div className="flex flex-col relative items-center space-y-[70px]">
                <div className="absolute border z-20 rounded-full shadow-slate-700"><img src={person} className="rounded-full w-[100px] h-[100px] lg:h-[128px] lg:w-[128px]"/></div>
                   
-               <div className="relative w-[300px] z-10 h-[400px] sm:w-[600px]  lg:w-[800px] lg:h-[500px] bg-[#134574] rounded-[19px] flex items-center justify-center">
+               <div className="relative w-[300px] z-10 h-[400px] sm:w-[600px]  lg:w-[800px] lg:h-[400px] bg-[#134574] rounded-[19px] flex items-center justify-center">
                  <form className=" flex flex-col justify-center gap-4 items-center">
 
                    <div className="flex items-center  gap-9 lg:gap-11">
